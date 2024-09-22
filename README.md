@@ -4,7 +4,7 @@ Welcome to the **NLP-with-HuggingFace** repository! 🎉 This project is a hands
 
 ---
 
-💻 Technologies Used
+## 💻 Technologies Used
 Hugging Face Transformers 🤗
 PyTorch ⚡
 Jupyter Notebooks 📒
